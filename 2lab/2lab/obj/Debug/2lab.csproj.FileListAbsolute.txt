@@ -1,0 +1,14 @@
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.csproj.AssemblyReference.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\MainWindow.baml
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\MainWindow.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\App.g.cs
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab_MarkupCompile.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.g.resources
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\_2lab.Properties.Resources.resources
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.csproj.GenerateResource.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.csproj.CoreCompileInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\bin\Debug\2lab.exe.config
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\bin\Debug\2lab.exe
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\bin\Debug\2lab.pdb
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.exe
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\2lab\2lab\obj\Debug\2lab.pdb
