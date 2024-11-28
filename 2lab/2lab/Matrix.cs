@@ -14,6 +14,11 @@ namespace MatrixLibrary
             Rows = rows;
             Columns = columns;
             data = new T[rows, columns];
+            if (rows <= 1 || columns <= 1)
+            {
+                throw new ArgumentOutOfRangeException("Неверная размерность матрицы");
+            }
+
         }
 
         public T this[int i, int j]
@@ -25,7 +30,7 @@ namespace MatrixLibrary
         public static Matrix<T> operator +(Matrix<T> a, Matrix<T> b)
         {
             if (a.Rows != b.Rows || a.Columns != b.Columns)
-                throw new ArgumentException("Matrices must have the same dimensions.");
+                throw new ArgumentException("Матрицы должны иметь одну размерность");
 
             var result = new Matrix<T>(a.Rows, a.Columns);
             for (int i = 0; i < a.Rows; i++)
@@ -41,7 +46,7 @@ namespace MatrixLibrary
         public static Matrix<T> operator *(Matrix<T> a, Matrix<T> b)
         {
             if (a.Columns != b.Rows)
-                throw new ArgumentException("The number of columns in the first matrix must equal the number of rows in the second matrix.");
+                throw new ArgumentException("Количество столбцов в первой матрице должно быть равно количеству строк во второй матрице");
 
             var result = new Matrix<T>(a.Rows, b.Columns);
             for (int i = 0; i < a.Rows; i++)
@@ -83,6 +88,11 @@ namespace MatrixLibrary
                 sb.AppendLine();
             }
             return sb.ToString();
+        }
+
+        public void Generate(Func<object, object, object> value)
+        {
+            throw new NotImplementedException();
         }
     }
 }

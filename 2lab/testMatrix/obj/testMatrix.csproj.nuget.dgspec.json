@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\testMatrix\\testMatrix.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\2lab\\2lab.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\2lab\\2lab.csproj",
+        "projectName": "2lab",
+        "projectPath": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\2lab\\2lab.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\testMatrix\\testMatrix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\testMatrix\\testMatrix.csproj",
+        "projectName": "testMatrix",
+        "projectPath": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\testMatrix\\testMatrix.csproj",
+        "packagesPath": "C:\\Users\\dream\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\testMatrix\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dream\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\2lab\\2lab.csproj": {
+                "projectPath": "C:\\Users\\dream\\OneDrive\\Рабочий стол\\ISPU\\3 курс\\Выч. системы и парал. обработка данных\\2lab\\2lab\\2lab.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

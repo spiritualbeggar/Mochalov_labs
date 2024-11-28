@@ -64,7 +64,7 @@ namespace MatrixLibrary
         {
             if (matrixA == null || matrixB == null)
             {
-                MessageBox.Show("Please generate matrices first.");
+                MessageBox.Show("Сначала сгенерируйте матрицы");
                 return;
             }
 
@@ -81,7 +81,7 @@ namespace MatrixLibrary
             }
 
             stopwatch.Stop();
-            labelTime.Content = $"Time: {stopwatch.ElapsedMilliseconds} ms";
+            labelTime.Content = $"Время: {stopwatch.ElapsedMilliseconds} ms";
 
             DisplayMatrix(matrixC, dataGridC);
         }
@@ -90,7 +90,7 @@ namespace MatrixLibrary
         {
             if (matrixC == null)
             {
-                MessageBox.Show("Please calculate the result first.");
+                MessageBox.Show("Сначала посчитайте результат");
                 return;
             }
 
@@ -115,7 +115,7 @@ namespace MatrixLibrary
                         writer.WriteLine();
                     }
                 }
-                MessageBox.Show("Matrix saved successfully.");
+                MessageBox.Show("Результат успешно сохранен!");
             }
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\bin\Debug\net6.0\IntegralCalculator.deps.json
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\bin\Debug\net6.0\IntegralCalculator.dll
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\bin\Debug\net6.0\IntegralCalculator.pdb
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.AssemblyInfoInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.AssemblyInfo.cs
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.dll
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\refint\IntegralCalculator.dll
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\IntegralCalculator.pdb
+C:\Users\dream\OneDrive\Рабочий стол\ISPU\3 курс\Выч. системы и парал. обработка данных\lab_3\IntegralCalculator\obj\Debug\net6.0\ref\IntegralCalculator.dll
